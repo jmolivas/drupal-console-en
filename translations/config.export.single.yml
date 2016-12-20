@@ -1,4 +1,4 @@
-description: 'Export single configuration as yml file.'
+description: 'Export a single configuration or a list of configurations as yml file(s).'
 arguments:
     name: 'Configuration name.'
 options:
